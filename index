@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>TOOLMIX | Herramienta 3 en 1</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; color: #333; }
+    header { text-align: center; margin-bottom: 30px; }
+    h1 { color: #004aad; }
+    section { background-color: #fff; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 0 5px #ccc; }
+    ul { list-style: none; padding-left: 0; }
+    li::before { content: "🔧 "; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #eee; }
+    img { max-width: 100%; height: auto; margin-top: 10px; border-radius: 6px; }
+    footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #777; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="Logo.png" alt="Logo ToolMex" width="200">
+    <h1>TOOLMIX</h1>
+    <p>Herramienta modular 3 en 1: pala, pico y rastrillo</p>
+  </header>
+
+  <section>
+    <h2>Propuesta de Valor</h2>
+    <p>Una sola herramienta con cabezales intercambiables para jardín o construcción. Ligera, compacta y económica.</p>
+  </section>
+
+  <section>
+    <h2>Visualización del Producto</h2>
+    <img src="Herramienta.png" alt="Herramienta TOOLMIX">
+  </section>
+
+  <section>
+    <h2>Características</h2>
+    <table>
+      <tr><th>Material</th><th>Propiedad</th></tr>
+      <tr><td>Acero inoxidable</td><td>Resistente a la corrosión</td></tr>
+      <tr><td>Madera sólida de encino</td><td>Alta resistencia mecánica</td></tr>
+      <tr><td>Empuñadura de silicona</td><td>Mayor comodidad y agarre</td></tr>
+    </table>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 TOOLMIX. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
